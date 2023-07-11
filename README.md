@@ -35,7 +35,7 @@ Para executar o projeto localmente, siga as instruções abaixo:
 
 ## Acesso Online
 
-O projeto "interface-componentizada" está hospedado online e pode ser acessado através do seguinte [link](https://interface-componentizada.vercel.app/)
+[Link do projeto online aqui!](https://interface-componentizada.vercel.app/)
 
 ## Utilização
 
